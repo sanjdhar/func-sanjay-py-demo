@@ -4,7 +4,7 @@
   "parameters": {
     "functionAppName": { "value": "func-sanjay-py-demo-001" },
     "pythonVersion":   { "value": "3.11" },
-    "repoUrl":         { "value": "REPLACE_AFTER_REPO_CREATION" },
+    "repoUrl":         { "value": "https://github.com/sanjdhar/func-sanjay-py-demo" },
     "branch":          { "value": "main" }
   }
 }
